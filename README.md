@@ -5,7 +5,7 @@
 
 
 
-# IBM-cad
+# IBM-CAD
 * [IBM Cloud:](https://cloud.ibm.com/login) Official website for Ibm cloud.<br.
 * [IBM SkillsBuild:](https://www.ibm.com/academic/home) Official website of Ibm Skillsbuild.<br>
 * [Github:](https://github.com/)Official website for Github<br>
@@ -14,10 +14,10 @@
 * [Visual Studio Code:](https://code.visualstudio.com/)  Download and Install Visual Studio Code.<br>
 * [SmartInternz:](https://smartinternz.com/educator-login) Go to SmartInternZ for project workspace<br>
 
-# Flask
+# FLASK
 * [Official Documentation:](https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application) The official documentation for Flask.<br>
 
-# Red Hat Developer Sandbox
+# RED HAT DEVELOPER SANDBOX
  * [Signup to Redhat Developer Sandbox](https://developers.redhat.com/developer-sandbox)<br>
 
 # IBM Db2
@@ -27,7 +27,7 @@
 
 
 
-# Docker and Wsl
+# DOCKER AND WSL
  * Docker Desktop Download:<br>
 *  For windows:[Docker desktop for windows](https://www.docker.com/products/docker-desktop)<br>
  * For Linux:[ Docker Desktop for Linux](https://www.docker.com/products/docker-desktop)https://www.docker.com/products/docker-desktop)<br>
