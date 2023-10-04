@@ -14,7 +14,7 @@
 ##  [SmartInternz: ](https://smartinternz.com/educator-login) Go to SmartInternZ for project workspace
 
 # Flask
-[Official Documentation:] (https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application) The official documentation for Flask.
+[Official Documentation:](https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application) The official documentation for Flask.
 #Red Hat Developer Sandbox
 [Signup to Redhat Developer Sandbox](https://developers.redhat.com/developer-sandbox)
 
@@ -30,13 +30,13 @@
 # Docker and Wsl
 Docker Desktop Download:
  For windows:[Docker desktop for windows](https://www.docker.com/products/docker-desktop)
- For Linux:[ Docker Desktop for Linux]([ Docker Desktop for Linux](https://www.docker.com/products/docker-desktop)https://www.docker.com/products/docker-desktop)
+ For Linux:[ Docker Desktop for Linux](https://www.docker.com/products/docker-desktop)https://www.docker.com/products/docker-desktop)
  WSL (Windows Subsystem for Linux) Installation:
- [WSL Installation Guide] -(https://docs.microsoft.com/en-us/windows/wsl/install-win1) Official Microsoft documentation on how to install WSL on Windows 10.
-[WSL installation Guide]- (https://docs.docker.com/) Official microsoft documentation on how to install 
+ [WSL Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win1) Official Microsoft documentation on how to install WSL on Windows 10.
+[WSL installation Guide](https://docs.docker.com/) Official microsoft documentation on how to install 
 wsl on windows 10.
 [Docker Documentation ](https://docs.docker.com/)
-[Docker CLI Command Reference] (https://docs.docker.com/engine/reference/commandline/cli/) Comprehensive documentation on Docker's command-line interface (CLI), providing details and examples of various Docker commands.
+[Docker CLI Command Reference](https://docs.docker.com/engine/reference/commandline/cli/) Comprehensive documentation on Docker's command-line interface (CLI), providing details and examples of various Docker commands.
 [Docker Hub](https://hub.docker.com/) - Signup to Docker Hub
 
 
