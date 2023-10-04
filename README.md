@@ -10,7 +10,6 @@
 * [IBM SkillsBuild:](https://www.ibm.com/academic/home) Official website of Ibm Skillsbuild.<br>
 * [Github:](https://github.com/)Official website for Github<br>
 * [IBM SkillsBuild & Cloud Account Creation Procedure Video:] link will actvate after some time<br> [Anaconda Navigator:](https://www.anaconda.com/download)(Download and Install Anaconda Distribution Package.<br>
- 
 * [Visual Studio Code:](https://code.visualstudio.com/)  Download and Install Visual Studio Code.<br>
 * [SmartInternz:](https://smartinternz.com/educator-login) Go to SmartInternZ for project workspace<br>
 
