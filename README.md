@@ -5,13 +5,13 @@
 
 
 # ibm-fdp-cad
-## [IBM Cloud:](https://cloud.ibm.com/login) Official website for Ibm cloud.
-## [IBM SkillsBuild:](https://www.ibm.com/academic/home) Official website of Ibm Skillsbuild.
-## [Github:] (https://github.com/)Official website for Github
-## [IBM SkillsBuild & Cloud Account Creation Procedure Video:] link will actvate after some time
-## [Anaconda Navigator:](https://www.anaconda.com/download)(Download and Install Anaconda Distribution Package.
-## [Visual Studio Code:](https://code.visualstudio.com/)  Download and Install Visual Studio Code.
-##  [SmartInternz: ](https://smartinternz.com/educator-login) Go to SmartInternZ for project workspace
+[IBM Cloud:](https://cloud.ibm.com/login) Official website for Ibm cloud.
+[IBM SkillsBuild:](https://www.ibm.com/academic/home) Official website of Ibm Skillsbuild.
+ [Github:] (https://github.com/)Official website for Github
+ [IBM SkillsBuild & Cloud Account Creation Procedure Video:] link will actvate after some time
+ [Anaconda Navigator:](https://www.anaconda.com/download)(Download and Install Anaconda Distribution Package.
+ [Visual Studio Code:](https://code.visualstudio.com/)  Download and Install Visual Studio Code.
+ [SmartInternz: ](https://smartinternz.com/educator-login) Go to SmartInternZ for project workspace
 
 # Flask
 [Official Documentation:](https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application) The official documentation for Flask.
