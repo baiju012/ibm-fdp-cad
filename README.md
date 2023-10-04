@@ -22,7 +22,7 @@
 # IBM Db2
 * [Official Github Repo of IBM DB2:](https://github.com/ibmdb/python-ibmdb) The official GitHub Repository of IBM DB2, where you can find a few examples and installation instructions.<br>
 * [IBM DB2 Functions](https://github.com/ibmdb/python-ibmdb/wiki/APIs)  The list of IBM DB2 API Functions with sample examples.<br>
-* [0IBM DB2 Fetching:](https://www.ibm.com/docs/en/dscp/10.1.0?topic=db-fetching-rows-columns-from-result-sets)This is a list of fetching types and what they do.<br>
+* [IBM DB2 Fetching:](https://www.ibm.com/docs/en/dscp/10.1.0?topic=db-fetching-rows-columns-from-result-sets)This is a list of fetching types and what they do.<br>
 
 
 
