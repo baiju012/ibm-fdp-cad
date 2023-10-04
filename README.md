@@ -31,7 +31,6 @@
  * Docker Desktop Download:<br>
 *  For windows:[Docker desktop for windows](https://www.docker.com/products/docker-desktop)<br>
  * For Linux:[ Docker Desktop for Linux](https://www.docker.com/products/docker-desktop)https://www.docker.com/products/docker-desktop)<br>
- 
 *  WSL (Windows Subsystem for Linux) Installation:
 * [WSL Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win1) Official Microsoft documentation on how to install WSL on Windows 10.<br>
 * [WSL installation Guide](https://docs.docker.com/) Official microsoft documentation on how to install 
