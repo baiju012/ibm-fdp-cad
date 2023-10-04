@@ -6,7 +6,7 @@
 
 # ibm-fdp-cad
 [IBM Cloud:]([https://github.com](https://cloud.ibm.com/login)) Official website for Ibm cloud.
-[IBM SkillsBuild:]([https://github.com]https://www.ibm.com/academic/home) Official website of Ibm Skillsbuild.
+[IBM SkillsBuild:](https://www.ibm.com/academic/home) Official website of Ibm Skillsbuild.
 [Github:] (https://github.com/)Official website for Github
 [IBM SkillsBuild & Cloud Account Creation Procedure Video:] link will actvate after some time
 [Anaconda Navigator:](https://www.anaconda.com/download)(Download and Install Anaconda Distribution Package.
