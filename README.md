@@ -30,15 +30,16 @@
 
 # DOCKER AND WSL
  * Docker Desktop Download:<br>
-*  For windows:[Docker desktop for windows](https://www.docker.com/products/docker-desktop)<br>
- * For Linux:[ Docker Desktop for Linux](https://www.docker.com/products/docker-desktop)https://www.docker.com/products/docker-desktop)<br>
+       *  For windows:[Docker desktop for windows](https://www.docker.com/products/docker-desktop)<br>
+       * For Linux:[ Docker Desktop for Linux](https://www.docker.com/products/docker-desktop)https://www.docker.com/products/docker-desktop)<br>
 *  WSL (Windows Subsystem for Linux) Installation:
-* [WSL Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win1) Official Microsoft documentation on how to install WSL on Windows 10.<br>
-* [WSL installation Guide](https://docs.docker.com/) Official microsoft documentation on how to install 
-* wsl on windows 10.<br>
-* [Docker Documentation ](https://docs.docker.com/)<br>
-* [Docker CLI Command Reference](https://docs.docker.com/engine/reference/commandline/cli/) Comprehensive documentation on Docker's command-line interface (CLI), providing details and examples of various Docker commands.<br>
-* [Docker Hub](https://hub.docker.com/) - Signup to Docker Hub<br>
+       * [WSL Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win1) Official Microsoft documentation on how to install WSL on Windows 10.
+       * [WSL installation Guide](https://docs.docker.com/) Official microsoft documentation on how to install 
+         wsl on windows 10.<br>
+       * [Docker Documentation ](https://docs.docker.com/)<br>
+       * [Docker CLI Command Reference](https://docs.docker.com/engine/reference/commandline/cli/) Comprehensive documentation on Docker's command-line interface (CLI), providing details 
+          and examples of various Docker commands.<br>
+       * [Docker Hub](https://hub.docker.com/) - Signup to Docker Hub<br>
 
 
 
