@@ -10,7 +10,7 @@ def welcome():
 @app.route('/Baiju')
 
 def greet():
-    return "Baiju kumar Here Wellcome to all of you"
+    return "Baiju kumar Here Welcome to all of you"
 
 if __name__=='__main__':
     app.run(debug=True)
