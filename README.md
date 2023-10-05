@@ -12,7 +12,7 @@
 * [IBM SkillsBuild & Cloud Account Creation Procedure Video:] link will actvate after some time<br>
 * [Anaconda Navigator:](https://www.anaconda.com/download)(Download and Install Anaconda Distribution Package.<br>
 * [Visual Studio Code:](https://code.visualstudio.com/)  Download and Install Visual Studio Code.<br>
-  [Python](https://www.python.org/downloads/release/python-3105/) Download and install python<br>
+* [Python](https://www.python.org/downloads/release/python-3105/) Download and install python<br>
 * [SmartInternz:](https://smartinternz.com/educator-login) Go to SmartInternZ for project workspace<br>
 
 # FLASK
